@@ -7,6 +7,33 @@
   <br>
 </p>
 
+<h2 align="left">🕹️ O que é um jogo digital? </h2>
+
+Um jogo digital é uma forma de entretenimento interativo que é jogado em dispositivos eletrônicos, como computadores, consoles de videogame, smartphones ou tablets. Ele é composto por software que gera gráficos, sons e interações controladas pelo jogador, que pode usar controladores, teclados, mouses ou telas sensíveis ao toque para influenciar o ambiente do jogo e alcançar objetivos específicos. Jogos digitais podem variar em complexidade e estilo, desde jogos simples de quebra-cabeça até elaborados mundos virtuais tridimensionais com histórias complexas e múltiplos jogadores. Nosso jogo foi desenvolvido como projeto na <a href="https://www.usf.edu.br">Universidade São Franscisco</a> durante o 7º semestre de Engenharia da Computção na matéria de Computação Visual lecionada pelo <a href="https://github.com/joguipi">Prof. José Guilherme Picolo</a>.
+
+<br>
+<br>
+<h2 align="left">🎮 Nosso Jogo </h2>
+Ele conta a história de... O jogo possui uma classificação livre; fizemos ele com temática de 8 e 16 bits, com a mecânica de Quick Time Event para cumprir o objetivo das fases (matar o boss). Quando o jogador acerta uma determinada sequência de botões, ele tira uma vida do boss; caso ele erre alguma, o jogador perde uma vida, e assim até finalizar a fase. O jogo é dividido em 3 níveis de dificuldade, que podem ser escolhidos antes de iniciar qualquer fase. Nós também deixamos disponível para o usuário escolher o tipo de música que deseja ouvir durante as fases do jogo. É preciso clicar no botão de Shop (nada é cobrado, é apenas o ícone) e escolher o tema.
+
+<br>
+<br>
+
+<h2 align="left">🧮 Ferramentas e Tecnologias </h2>
+<a href="https://processing.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="40" height="40"/>
+</a>
+
+<br>
+<br>
+
+<h2 align="left">📁 Download </h2>
+
+  [![MediaFire](https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/128/MediaFire.png)](https://www.google.com/webhp?hl=pt-PT&sa=X&ved=0ahUKEwixgcy6ptKGAxWiqJUCHfChBEgQPAgJ)
+
+<br>
+<br>
+<br>
 
 <h2 align="left">📃 Créditos </h2>
 Imagens Utilizadas:
