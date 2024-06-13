@@ -14,14 +14,24 @@ Um jogo digital é uma forma de entretenimento interativo que é jogado em dispo
 <br>
 <br>
 <h2 align="left">🎮 Nosso Jogo </h2>
-Ele conta a história de... O jogo possui uma classificação livre; fizemos ele com temática de 8 e 16 bits, com a mecânica de Quick Time Event para cumprir o objetivo das fases (matar o boss). Quando o jogador acerta uma determinada sequência de botões, ele tira uma vida do boss; caso ele erre alguma, o jogador perde uma vida, e assim até finalizar a fase. O jogo é dividido em 3 níveis de dificuldade, que podem ser escolhidos antes de iniciar qualquer fase. Nós também deixamos disponível para o usuário escolher o tipo de música que deseja ouvir durante as fases do jogo. É preciso clicar no botão de Shop (nada é cobrado, é apenas o ícone) e escolher o tema.
+Ele conta a história de Taufik, um guerreiro com habilidades extraordinárias e katanas encantadas, que busca restaurar a paz. Descobrindo que três poderosos Bosses são os causadores do tumulto, ele parte em uma jornada para derrotá-los, recuperar os fragmentos de um artefato antigo e salvar seu povo. O jogo possui classificação livre; nós o desenvolvemos com temática de 8 e 16 bits, com a mecânica de Quick Time Event para cumprir os objetivos das fases (derrotar o Boss). Quando o jogador acerta uma determinada sequência de botões, ele causa dano ao boss, caso contrário, ele perde uma vida, e assim sucessivamente até completar a fase. O jogo é dividido em 3 níveis de dificuldade, que podem ser escolhidos antes de iniciar qualquer fase. Também disponibilizamos ao jogador a opção de escolher o tipo de música que deseja ouvir durante as fases do jogo. Para isso, basta clicar no botão "Shop" (nenhum pagamento é exigido, é apenas um ícone) e selecionar o tema desejado.
+
+<br>
+<br>
+
+<h2 align="left">✏️ Metodologia </h2>
+O jogo foi desenvolvido inteiramente utilizando a plataforma do Processing e suas bibliotecas, enquanto os conteúdos de mídia foram retirados de diferentes lugares (links e nomes disponíveis nos créditos). Foi um código bastante extenso para um escopo de jogo relativamente simples. Nós organizamos os códigos de forma a separar onde cada classe e objeto atua, tornando mais prático e fácil fazer alterações (o que houve muitas). Para a produção do jogo, dividimos em duas partes: a interface e navegação de menus (incluindo toda a mecânica e funcionalidade dos menus) e a parte prática do jogo, onde foi feita a interação do usuário com os níveis de fato. Houve diversas dificuldades em ambas as partes do projeto, como problemas de áudio, sprites e limitações da plataforma. Esses problemas foram contornados trocando bibliotecas e modificando o código com tentativa e erro (e com a ajuda de I.As). Mesmo com algumas dificuldades, foi apenas um projeto mais longo com um final que nos agradou bastante.
 
 <br>
 <br>
 
 <h2 align="left">🧮 Ferramentas e Tecnologias </h2>
 <a href="https://processing.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="40" height="40" alt="Processing"/>
+</a>
+ 
+<a href="https://itch.io/">
+  <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" width="40" height="40" alt="itch.io"/>
 </a>
 
 <br>
@@ -29,9 +39,10 @@ Ele conta a história de... O jogo possui uma classificação livre; fizemos ele
 
 <h2 align="left">📁 Download </h2>
 
-  [![MediaFire](https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/128/MediaFire.png)](https://www.google.com/webhp?hl=pt-PT&sa=X&ved=0ahUKEwixgcy6ptKGAxWiqJUCHfChBEgQPAgJ)
+<a href="https://www.google.com/">
+  <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/128/MediaFire.png" width="40" height="40"/>
+</a>
 
-<br>
 <br>
 <br>
 
@@ -67,8 +78,6 @@ Sprites Utilizados:
 - `Botões ->` https://kkmiyu.itch.io/
 - `Teclas ->` https://beamedeighth.itch.io/
 
-<br>
-<br>
 <br>
 <br>
 
