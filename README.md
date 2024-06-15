@@ -37,6 +37,14 @@ O jogo foi desenvolvido inteiramente utilizando a plataforma do Processing e sua
 <br>
 <br>
 
+<h2 align="left">🖥️ Gameplay </h2>
+<a href="https://www.youtube.com/">
+  <img src="https://yt3.googleusercontent.com/qcmNO_rYyGCg0GuDdy5EeFTiTmZWHryVTCLumINe-ihVYgWXl-92pzAaaRZVMBz8Q9azPeHVC7s=s900-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="Processing"/>
+</a>
+
+<br>
+<br>
+
 <h2 align="left">📁 Download </h2>
 
 <a href="https://www.google.com/">
