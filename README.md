@@ -1,4 +1,4 @@
-![image](https://github.com/pedrohpossa/TheLastHero/assets/146893811/633b02fd-0ba5-41b8-bcf1-4012c247677f)![image](https://github.com/pedrohpossa/TheLastHero/assets/146893811/fc1fdeb2-3c07-4762-be7a-c6cc4e003645)<h1 align="center"><img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30">  The Last Hero  <img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30"></h1>
+<h1 align="center"><img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30">  The Last Hero  <img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30"></h1>
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM ANDAMENTO-orange?style=for-the-badge">
