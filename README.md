@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30">  The Last Hero  <img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30"></h1>
+![image](https://github.com/pedrohpossa/TheLastHero/assets/146893811/633b02fd-0ba5-41b8-bcf1-4012c247677f)![image](https://github.com/pedrohpossa/TheLastHero/assets/146893811/fc1fdeb2-3c07-4762-be7a-c6cc4e003645)<h1 align="center"><img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30">  The Last Hero  <img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30"></h1>
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM ANDAMENTO-orange?style=for-the-badge">
@@ -47,8 +47,8 @@ O jogo foi desenvolvido inteiramente utilizando a plataforma do Processing e sua
 
 <h2 align="left">📁 Download </h2>
 
-<a href="https://www.google.com/">
-  <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/128/MediaFire.png" width="40" height="40"/>
+<a href="https://drive.google.com/file/d/1yQqgl7ekPLRky5dPlOnLyo4RDmMT8D09/view?usp=sharing">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/480px-Google_Drive_logo.png" width="40" height="40"/>
 </a>
 
 <br>
