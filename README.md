@@ -79,6 +79,7 @@ Músicas Utilizadas:
 - `The Wellerman (Sea Shanty TikTok) [8 Bit Tribute to The Longest Johns] - 8 Bit Universe ->` https://www.youtube.com/watch?v=1BNG0YXOWd4
 - `Blue (Da Ba Dee) [8 Bit Tribute to Eiffel 65] - 8 Bit Universe ->` https://www.youtube.com/watch?v=1ukg4E75HBU
 - `A Thousand Miles (2023) [8 Bit Tribute to Vanessa Carlton] - 8 Bit Universe ->` https://www.youtube.com/watch?v=JZpCVkjhY44
+- `Minecraft - Main Theme - Calm 8-Bit ->` https://www.youtube.com/watch?v=GLBmROUVnGo
 
 Sprites Utilizados:
 <br>
