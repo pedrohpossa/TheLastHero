@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30">  The Last Hero  <img src="https://i.imgur.com/ycL7mWy.png" width="30" height="30"></h1>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/STATUS-EM ANDAMENTO-orange?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-green?style=for-the-badge">
   <br>
   <img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif"/>
   <br>
@@ -14,7 +14,7 @@ Um jogo digital é uma forma de entretenimento interativo que é jogado em dispo
 <br>
 <br>
 <h2 align="left">🎮 Nosso Jogo </h2>
-Ele conta a história de Taufik, um guerreiro com habilidades extraordinárias e katanas encantadas, que busca restaurar a paz. Descobrindo que três poderosos Bosses são os causadores do tumulto, ele parte em uma jornada para derrotá-los, recuperar os fragmentos de um artefato antigo e salvar seu povo. O jogo possui classificação livre; nós o desenvolvemos com temática de 8 e 16 bits, com a mecânica de Quick Time Event para cumprir os objetivos das fases (derrotar o Boss). Quando o jogador acerta uma determinada sequência de botões, ele causa dano ao boss, caso contrário, ele perde uma vida, e assim sucessivamente até completar a fase. O jogo é dividido em 3 níveis de dificuldade, que podem ser escolhidos antes de iniciar qualquer fase. Também disponibilizamos ao jogador a opção de escolher o tipo de música que deseja ouvir durante as fases do jogo. Para isso, basta clicar no botão "Shop" (nenhum pagamento é exigido, é apenas um ícone) e selecionar o tema desejado.
+Ele conta a história de Taufik, um guerreiro com habilidades extraordinárias e katanas encantadas, que busca restaurar a paz. Descobrindo que três poderosos Bosses são os causadores do tumulto, ele parte em uma jornada para derrotá-los, recuperar os fragmentos de um artefato antigo e salvar seu povo. O jogo possui classificação livre com gênero de ação/aventura; nós o desenvolvemos com temática de 8 e 16 bits, com a mecânica de Quick Time Event para cumprir os objetivos das fases (derrotar o Boss). Quando o jogador acerta uma determinada sequência de botões, ele causa dano ao boss, caso contrário, ele perde uma vida, e assim sucessivamente até completar a fase. O jogo é dividido em 3 níveis de dificuldade, que podem ser escolhidos antes de iniciar qualquer fase. Também disponibilizamos ao jogador a opção de escolher o tipo de música que deseja ouvir durante as fases do jogo. Para isso, basta clicar no botão "Shop" (nenhum pagamento é exigido, é apenas um ícone) e selecionar o tema desejado.
 
 <br>
 <br>
@@ -37,11 +37,13 @@ O jogo foi desenvolvido inteiramente utilizando a plataforma do Processing e sua
 <br>
 <br>
 
-<h2 align="left">🖥️ Gameplay </h2>
-<a href="https://www.youtube.com/">
-  <img src="https://yt3.googleusercontent.com/qcmNO_rYyGCg0GuDdy5EeFTiTmZWHryVTCLumINe-ihVYgWXl-92pzAaaRZVMBz8Q9azPeHVC7s=s900-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="Processing"/>
-</a>
-
+<h2 align="left">🖥️ Galeria </h2>
+<p align="center">
+<img src="https://i.imgur.com/gp4YsNb.png"> 
+<img src="https://i.imgur.com/k8lQEmb.png"> 
+<img src="https://i.imgur.com/Ivcodev.png"> 
+<img src="https://i.imgur.com/WwK2Wrl.png"> 
+</p>
 <br>
 <br>
 
